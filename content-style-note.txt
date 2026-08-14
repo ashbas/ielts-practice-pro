@@ -1,0 +1,1 @@
+Practice pages use assets/content-extra.css for shared interactive content styling.
